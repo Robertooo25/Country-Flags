@@ -20,7 +20,7 @@ country.
 > - Go to the folder  and select the flag you want and copy the URL link.
 > - Use the command bellow to display the flag
 > ```html
-> <img align="left" alt="Portugese" width="35px" style="padding-right:10px;" src="PUT THE LINK OF THE FLAG HERE"/>
+> <img align="left" alt="Portugese" width="35px" style="padding-right:10px;" src="PUT THE URL LINK OF THE FLAG HERE"/>
 > ```
 
 ### Examples: 
