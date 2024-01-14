@@ -1,6 +1,6 @@
 # Country flags
 
-This repository contains illustrations of country flags in SVG format, all the flags have the same ouline geometry format, which makes this repository ideal for profile customization and interchangeable icons.
+This repository contains illustrations of country flags in SVG format, all the flags have the same outline geometry format, which makes this repository ideal for profile customization and interchangeable icons.
 
 View the country flags available here: https://hampusborgos.github.io/country-flags/
 
